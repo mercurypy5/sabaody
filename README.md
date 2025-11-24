@@ -8,7 +8,7 @@ Rationale
 
 (~200 words)
 
-The body has several mechanisms it enforces to maintain homeostasis during exercise. Homeostasis is the "ability of an organism to maintain a stable internal environment despite changes in external conditions." (Helmenstine, 2025) During exercise, external factors cause changes to occur in the body to enhance the body's performance. In the investigation conducted, the duration of exercise is altered and the body's blood oxygen saturation and pulse are measured before, during and after exercise to track the body's response to maintain homeostasis. By measuring the percentage of blood oxygen saturation and the number of beats/second in the pulse, the data can be analysed to answer to what extent does the duration of exercise impact blood oxygen saturation and pulse.
+The body has several mechanisms it enforces to maintain homeostasis during exercise. Homeostasis is the "ability of an organism to maintain a stable internal environment despite changes in external conditions." (Helmenstine, 2025) During exercise, external factors cause changes to occur in the body to enhance the body's performance. In the investigation conducted, the duration of exercise is altered and the body's blood oxygen saturation and pulse are measured before, during and after exercise to track the body's response to maintain homeostasis. By measuring the percentage of blood oxygen saturation and the number of beats/second in the pulse, the data can be analysed to answer to what extent the duration of exercise impact blood oxygen saturation and pulse.
 
 ##Introduce the topic that will be investigated, including definitions of key words and background information that is important for the reader to understand the topic and research question. For example: define homeostasis and explain how it relates to exercise.\
 ##Identify the variables for the experiment that was conducted and explain why those variables were chosen
@@ -27,7 +27,7 @@ It is hypothesized that the longer the duration of exercise is, the greater the 
 
 Method
 
-The blood oxygen saturation and pulse was measured at rest with a pulse oximeter. The subject then began exercising by doing jumping jacks for 3 minutes with their blood oxygen saturation and pulse measured every 30 seconds. The subject then ceased to exercise and their blood oxygen saturation and pulse was measured was for the next 2 minutes every 30 seconds.
+The blood oxygen saturation and pulse of the subject was measured at rest with a pulse oximeter. The subject then began exercising by doing jumping jacks for 3 minutes with their blood oxygen saturation and pulse measured every 30 seconds. The subject then ceased to exercise and their blood oxygen saturation and pulse was measured was for the next 2 minutes every 30 seconds.
 Analysis of data
 
 Analysis\
