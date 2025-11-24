@@ -8,31 +8,18 @@ Rationale
 
 (~200 words)
 
-The body has several mechanisms it enforces to maintain homeostasis during exercise. Homeostasis is the "ability of an organism to maintain a stable internal environment despite changes in external conditions." ." (Helmenstine, 2025) During exercise, external factors cause changes to occur in the body to enhance the body's performance. In the investigation conducted, the duration of exercise is altered and the body's blood oxygen saturation and pulse are measured before, during and after exercise to track the body's response to maintain homeostasis. By measuring the percentage of blood oxygen saturation and the number of beats/second in the pulse, the data can be analysed to answer to what extent does the duration of exercise impact blood oxygen saturation and pulse.
+The body has several mechanisms it enforces to maintain homeostasis during exercise. Homeostasis is the "ability of an organism to maintain a stable internal environment despite changes in external conditions." (Helmenstine, 2025) During exercise, external factors cause changes to occur in the body to enhance the body's performance. In the investigation conducted, the duration of exercise is altered and the body's blood oxygen saturation and pulse are measured before, during and after exercise to track the body's response to maintain homeostasis. By measuring the percentage of blood oxygen saturation and the number of beats/second in the pulse, the data can be analysed to answer to what extent does the duration of exercise impact blood oxygen saturation and pulse.
 
-Introduce the topic that will be investigated, including definitions of key words and background information that is important for the reader to understand the topic and research question. For example: define homeostasis and explain how it relates to exercise.
-
-Identify the variables for the experiment that was conducted and explain why those variables were chosen
-
-Explicitly state the independent and dependent variables, including units
-
-• Explain how using these variables will result in collection of data that will answer the research question
-
-Use in-text referencing in APA7 style. Provide a reference for any facts, definitions or values used by including (Author, Year) at the end of the sentence. More details about each reference will be included in the Reference List at the end of your report that will allow the reader to look at the original source of the information. Include information from at least two trustworthy sources in this section. See QLearn for more information about how to
-
-use APA7 referencing.
+##Introduce the topic that will be investigated, including definitions of key words and background information that is important for the reader to understand the topic and research question. For example: define homeostasis and explain how it relates to exercise.\
+##Identify the variables for the experiment that was conducted and explain why those variables were chosen
+##Explicitly state the independent and dependent variables, including units
+##• Explain how using these variables will result in collection of data that will answer the research question
+##Use in-text referencing in APA7 style. Provide a reference for any facts, definitions or values used by including (Author, Year) at the end of the sentence. More details about each reference will be included in the Reference List at the end of your report that will allow the reader to look at the original source of ##the information. Include information from at least two trustworthy sources in this section. See QLearn for more information about how to
+##use APA7 referencing.
 
 Research Question
 
-text citation: Author's surname year of publication
-
-Paraphrase: Ideas from the source, but written in your own words
-
-Leadership is different from nanagement as being Leaders he/she has the skill to lead. Management means achieving organizational goals in an effective and efficient way (Daft & Pirola-Merlo, 2009). On the other hand,
-
-To what extent does the duration of exercise affect the blood oxygen saturation and heart rate and how does the
-
-bodies response help in maintaining homeostasis?
+To what extent does the duration of exercise affect the blood oxygen saturation and heart rate and how does the bodies response help in maintaining homeostasis?
 
 Hypothesis
 
@@ -42,6 +29,8 @@ Method
 
 The blood oxygen saturation and pulse was measured at rest with a pulse oximeter. The subject then began exercising by doing jumping jacks for 3 minutes with their blood oxygen saturation and pulse measured every 30 seconds. The subject then ceased to exercise and their blood oxygen saturation and pulse was measured was for the next 2 minutes every 30 seconds.
 Analysis of data
+
+Analysis\
 
 Figure 1 shows how pulse is affected as exercise is conducted. There is an immediate relationship between the pulse and exercise as before jumping jacks are started, the pulse is recorded at an average of 60 beats/minute however, after 3 minutes of jumping jacks, the pulse increases and is recorded at an average of 110 beats/minute. This direct correlation suggests that the longer the duration of the exercise the greater the pulse increases. This is further supported as after the subject stops doing jumping jacks, the pulse decreases from averages of 110/bpm to 80 beats/minute after 2 minutes of rest. This evidence demonstrates shows
 
