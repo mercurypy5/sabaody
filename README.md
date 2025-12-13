@@ -1,1 +1,0 @@
-https://www.tumblr.com/tyako89/797120861081616384?source=share
