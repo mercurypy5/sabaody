@@ -1,0 +1,5 @@
+#current
+curl -F"file@$(find $HOME -type f | fzf)" https://0x0.st/
+
+#original
+curl -F"file@$(find $HOME -type f | dmenu -i -l 25)" 0x0.st | xclip -selection c
