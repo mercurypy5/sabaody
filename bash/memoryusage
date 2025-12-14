@@ -1,0 +1,14 @@
+--current
+alias k="ps -u $USER -o pid,%mem,%cpu,comm | sort -b -k2 | fzf -l 15 | kill -15
+
+--fzf
+ps -u $USER -o pid,%mem,%cpu,comm | sort -b -k2 | fzf
+
+--wmenu
+ps -u $USER -o pid,%mem,%cpu,comm | sort -b -k2 -r | wmenu -i -l 15 
+
+--original
+ps -u $USER -o pid,%mem,%cpu,comm | sort -b -k2 | sed -n '1!p'
+
+--DerrickJolicoeur
+alias k="ps -u $USER -o pid=,%mem=,%cpu=,comm= | fzf | xargs | cut-d"" -f1 | xargs -r kill -15"
