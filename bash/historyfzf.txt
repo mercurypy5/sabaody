@@ -1,1 +1,1 @@
-history | fzf
+history | cut -c 8- | sort | uniq | fzf
