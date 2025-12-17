@@ -1,0 +1,40 @@
+include ~/.config/sway/config.d/variables.conf
+include ~/.config/sway/config.d/keybindings.conf
+include ~/.config/sway/config.d/workspaces.conf
+#include ~/.config/sway/config.d/bar.conf
+
+
+
+default_border pixel 2
+default_floating_border pixel 2
+gaps inner 0
+gaps outer 20
+client.focused #a29fac #a29fac #ffffff #a29fac #a29fac
+client.unfocused #201f26 #201f26 #ffffff #201f26 #201f26
+
+#Background
+output * bg /home/silverray/images/trifoli.jpeg fit
+output HDMI-A-1 resolution 3840x2160@60.00Hz position 0 0
+# SwayIdle
+exec swayidle -w \
+          timeout 300 'echo "LOCK TRIGGERED"; swaylock -f -e -i /home/silverray/images/fluid.png' 
+          
+## timeout 600 'swaymsg "output * power off"' \
+## resume 'swaymsg "output * power on"' \
+## before-sleep 'swaylock -f -e -i ~/images/reddot.png'
+exec mako
+
+    # Special keys to adjust volume via PulseAudio
+    bindsym --locked XF86AudioMute exec pactl set-sink-mute \@DEFAULT_SINK@ toggle
+    bindsym --locked XF86AudioLowerVolume exec pactl set-sink-volume \@DEFAULT_SINK@ -5%
+    bindsym --locked XF86AudioRaiseVolume exec pactl set-sink-volume \@DEFAULT_SINK@ +5%
+    bindsym --locked XF86AudioMicMute exec pactl set-source-mute \@DEFAULT_SOURCE@ toggle
+    # Special keys to adjust brightness via brightnessctl
+    bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
+    bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
+    # Special key to take a screenshot with grim
+    bindsym Print exec grim
+
+
+
+include /etc/sway/config.d/*
